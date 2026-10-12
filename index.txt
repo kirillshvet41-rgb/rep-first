@@ -1,3 +1,8 @@
 Derector
+<<<<<<< HEAD
 new change - 1
 Boba
+=======
+new change - 2
+new file
+>>>>>>> dev
